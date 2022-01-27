@@ -1,0 +1,94 @@
+body {
+  background: #F8F4F1 !important;
+}
+
+.container {
+  margin: 30px 50px;
+}
+
+.title {
+  font-size: 32px;
+  line-height: 38px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.04em;
+  color: #3C5C66;
+  font-weight: normal;
+  margin-bottom: 0;
+}
+
+.desc {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  text-decoration-line: underline;
+  color: #C3BEB4;
+  margin-top: 4px;
+}
+
+.price {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 34px;
+  display: flex;
+  align-items: center;
+  color: #3C5C66;
+  margin-top: 40px;
+}
+
+.inner-desc {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+  text-transform: capitalize;
+  color: #1E1919;
+  width: 70%;
+}
+
+.variant-title {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+  color: #3C5C66;
+}
+
+.add-cart-btn {
+  width: 226px;
+  height: 48px;
+  border: 3px solid #3C5C66 !important;
+  box-sizing: border-box;
+  border-radius: 4px !important;
+  color: #3C5C66 !important;
+  position: absolute !important;
+  bottom: 10px;
+}
+
+.more-btn {
+  width: 226px;
+  height: 48px;
+  border: 2px solid #3C5C66 !important;
+  box-sizing: border-box;
+  border-radius: 4px !important;
+  color: #3C5C66 !important;
+  margin: 50px 0 !important;
+}
+
+.MuiBreadcrumbs-li:before {
+  content: '' !important;
+}
+
+h2 {
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 38px;
+  color: #3C5C66;
+  margin-top: 50px;
+  margin-bottom: 0;
+}

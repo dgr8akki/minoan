@@ -1,0 +1,18 @@
+.header {
+  background: transparent;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid black;
+  margin: 0 50px;
+}
+
+.navbar {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 15%;
+}
