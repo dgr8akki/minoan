@@ -5,6 +5,7 @@
   "dependencies": {
     "@emotion/react": "11.7.1",
     "@emotion/styled": "11.6.0",
+    "@mui/icons-material": "5.3.1",
     "@mui/material": "5.3.1",
     "@reduxjs/toolkit": "1.7.1",
     "@testing-library/jest-dom": "5.16.1",
@@ -46,6 +47,7 @@
     "react-dom": "17.0.2",
     "react-helmet-async": "1.2.2",
     "react-i18next": "11.15.3",
+    "react-image-gallery": "1.2.7",
     "react-is": "17.0.2",
     "react-redux": "7.2.6",
     "react-router-dom": "5.2.0",
@@ -65,7 +67,8 @@
     "stylelint-processor-styled-components": "1.10.0",
     "ts-node": "10.4.0",
     "typescript": "4.5.4",
-    "web-vitals": "2.1.2"
+    "web-vitals": "2.1.2",
+    "webfontloader": "1.6.28"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -124,5 +127,8 @@
         "statements": 90
       }
     }
+  },
+  "devDependencies": {
+    "@types/react-image-gallery": "1.0.5"
   }
 }

@@ -1,11 +1,18 @@
-.custom-breadcrumbs {
-  height: 14px;
-  font-weight: normal;
-  font-size: 12px;
-  line-height: 14px;
+.breadcrumb-container {
   display: flex;
   align-items: center;
-  text-align: center;
-  letter-spacing: 0.02em;
-  color: #3C5C66;
+  margin-bottom: 24px;
+  color: #3C5C66 !important;
+
+  .custom-breadcrumbs {
+    height: 14px;
+    font-weight: normal !important;
+    font-size: 14px !important;
+    line-height: 14px !important;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.02em !important;
+    color: #3C5C66 !important;
+  }
 }

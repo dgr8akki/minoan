@@ -1,0 +1,22 @@
+.reviews-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 24px;
+  color: #3C5C66 !important;
+  flex-direction: column;
+}
+
+.name {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  color: #1E1919;
+}
+
+.body {
+  font-weight: 100;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 1px;
+  color: #1E1919;
+}

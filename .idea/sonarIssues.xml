@@ -8,6 +8,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/app/components/Carousel/index.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/app/components/Carousel/styles.scss">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/app/components/CustomBreadcrumbs/index.tsx">
           <value>
             <set />
@@ -18,12 +28,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/app/components/CustomButton/index.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/app/components/CustomButton/styles.scss">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/app/components/Header/index.tsx">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/app/components/Header/styles.scss">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/app/components/Reviews/index.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/app/components/Reviews/styles.scss">
           <value>
             <set />
           </value>
@@ -39,6 +69,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/app/index.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/app/pages/DetailsPage/index.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/app/pages/DetailsPage/styles.scss">
           <value>
             <set />
           </value>

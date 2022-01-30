@@ -1,10 +1,6 @@
-* {
-  font-family: 'Droid Sans', serif !important;
-}
-
 body {
   background: #F8F4F1 !important;
-  font-family: 'Droid Sans', serif;
+  font-family: 'Open Sans', sans-serif !important;
 }
 
 .container {
@@ -67,4 +63,29 @@ body {
 
 .MuiBreadcrumbs-li:before {
   content: '' !important;
+}
+
+h2 {
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 32px;
+  color: #3C5C66;
+  margin: 30px 0;
+
+  &.no-margin {
+    margin: 0;
+  }
+}
+
+hr {
+  border: 1px solid #E3DED9;
+  margin: 20px 0;
+}
+
+.add-review-btn {
+  padding: 9px 18px !important;
+  width: 152px;
+  height: 37px;
+  background-color: #3C5C66 !important;
+  border-radius: 4px !important;
 }
